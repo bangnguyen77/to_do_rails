@@ -12,6 +12,15 @@ Things you may want to cover:
 * Configuration
 
 * Database creation
+```
+$ rake db:create
+```
+```
+rake db:migrate
+```
+```
+$ rake db:test:prepare
+```
 
 * Database initialization
 
